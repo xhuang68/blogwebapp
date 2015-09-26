@@ -1,4 +1,6 @@
-awesome-python3-webapp
+blogwebapp
 ======================
 
-A python webapp tutorial.
+A python blog webapp.
+Created by Xiao Huang.
+2015
